@@ -1,7 +1,0 @@
-{
-  "/not-found": "app/not-found.js",
-  "/(dashboard)/page": "app/(dashboard)/page.js",
-  "/(dashboard)/policies/page": "app/(dashboard)/policies/page.js",
-  "/(dashboard)/governance/page": "app/(dashboard)/governance/page.js",
-  "/(dashboard)/settings/page": "app/(dashboard)/settings/page.js"
-}
